@@ -1,0 +1,24 @@
+From abbc4df9489adfa4c357972b8c40e9b1fa980009 Mon Sep 17 00:00:00 2001
+From: momothereal <momothereal.mc@gmail.com>
+Date: Thu, 27 Dec 2018 19:22:53 -0500
+Subject: [PATCH] 1.13-HACK: Change artifact name
+
+
+diff --git a/pom.xml b/pom.xml
+index f147f206..3e333582 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -12,8 +12,8 @@
+     </parent>
+ 
+     <groupId>net.glowstone</groupId>
+-    <artifactId>glowkit</artifactId>
+-    <version>1.12.2-R5.0-SNAPSHOT</version>
++    <artifactId>glowkit-aquatic</artifactId>
++    <version>1.13.2-R0.1-SNAPSHOT</version>
+     <packaging>jar</packaging>
+ 
+     <name>Glowkit</name>
+-- 
+2.11.0.windows.1
+
